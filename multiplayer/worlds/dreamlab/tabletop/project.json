@@ -8,12 +8,10 @@
       "registration": [],
       "world": [
         {
+          "ref": "ent_gnuju17mznifiaprrorouppz",
           "type": "@core/ClickableRect",
           "name": "TestPiece",
-          "values": {
-            "width": 1,
-            "height": 1
-          },
+          "enabled": true,
           "transform": {
             "position": {
               "x": -3.99,
@@ -33,31 +31,24 @@
           ],
           "children": [
             {
+              "ref": "ent_cch8qm97qa1wz6ub6c35tz6h",
               "type": "@core/Sprite",
               "name": "Sprite",
-              "values": {
-                "static": false,
-                "hidden": false,
-                "width": 1,
-                "height": 1,
-                "alpha": 1,
-                "texture": "https://lulu.dev/avatar.png"
-              },
+              "enabled": true,
               "transform": {
                 "z": 10
               },
-              "ref": "ent_cch8qm97qa1wz6ub6c35tz6h"
+              "values": {
+                "texture": "https://lulu.dev/avatar.png"
+              }
             }
-          ],
-          "ref": "ent_gnuju17mznifiaprrorouppz"
+          ]
         },
         {
+          "ref": "ent_ybjezndr1zesna09wqd2jw0p",
           "type": "@core/ClickableRect",
           "name": "TestPiece.1",
-          "values": {
-            "width": 1,
-            "height": 1
-          },
+          "enabled": true,
           "transform": {
             "position": {
               "x": -0.17999999999999972,
@@ -77,27 +68,24 @@
           ],
           "children": [
             {
+              "ref": "ent_dwmwoxu2yccq133k8w054san",
               "type": "@core/Sprite",
               "name": "Sprite",
-              "values": {
-                "static": false,
-                "hidden": false,
-                "width": 1,
-                "height": 1,
-                "alpha": 1,
-                "texture": "https://lulu.dev/avatar.png"
-              },
+              "enabled": true,
               "transform": {
                 "z": 10
               },
-              "ref": "ent_dwmwoxu2yccq133k8w054san"
+              "values": {
+                "texture": "https://lulu.dev/avatar.png"
+              }
             }
-          ],
-          "ref": "ent_ybjezndr1zesna09wqd2jw0p"
+          ]
         },
         {
+          "ref": "ent_mcxn0p34vl500zv50d1792ir",
           "type": "@core/Empty",
           "name": "Hand",
+          "enabled": true,
           "transform": {
             "position": {
               "x": 0.040000000000000924,
@@ -115,29 +103,22 @@
           ],
           "children": [
             {
+              "ref": "ent_jpnj1b8r5jtd5iy6pk7lki5d",
               "type": "@core/Sprite",
               "name": "Sprite",
+              "enabled": true,
               "values": {
                 "static": true,
-                "hidden": false,
-                "width": 3,
-                "height": 1,
-                "alpha": 1,
-                "texture": ""
-              },
-              "transform": {},
-              "ref": "ent_jpnj1b8r5jtd5iy6pk7lki5d"
+                "width": 3
+              }
             }
-          ],
-          "ref": "ent_mcxn0p34vl500zv50d1792ir"
+          ]
         },
         {
+          "ref": "ent_kxuuvjg2lhtovifkhf9we6z0",
           "type": "@core/ClickableRect",
           "name": "TestPiece.2",
-          "values": {
-            "width": 1,
-            "height": 1
-          },
+          "enabled": true,
           "transform": {
             "position": {
               "x": 1,
@@ -157,35 +138,28 @@
           ],
           "children": [
             {
+              "ref": "ent_zfhem8zl1myfixjqqjb3pvd1",
               "type": "@core/Sprite",
               "name": "Sprite",
-              "values": {
-                "static": false,
-                "hidden": false,
-                "width": 1,
-                "height": 1,
-                "alpha": 1,
-                "texture": "https://lulu.dev/avatar.png"
-              },
+              "enabled": true,
               "transform": {
                 "z": 10
               },
-              "ref": "ent_zfhem8zl1myfixjqqjb3pvd1"
+              "values": {
+                "texture": "https://lulu.dev/avatar.png"
+              }
             }
-          ],
-          "ref": "ent_kxuuvjg2lhtovifkhf9we6z0"
+          ]
         },
         {
+          "ref": "ent_g10hhqadfgklv8f812halv7u",
           "type": "@core/ClickableRect",
           "name": "TestPiece.3",
-          "values": {
-            "width": 1,
-            "height": 1
-          },
+          "enabled": true,
           "transform": {
             "position": {
-              "x": -1,
-              "y": 0
+              "x": -1.1999999999999993,
+              "y": 0.5333333333333314
             }
           },
           "behaviors": [
@@ -201,83 +175,62 @@
           ],
           "children": [
             {
+              "ref": "ent_a30cql60qvdu9yetbr03po59",
               "type": "@core/Sprite",
               "name": "Sprite",
-              "values": {
-                "static": false,
-                "hidden": false,
-                "width": 1,
-                "height": 1,
-                "alpha": 1,
-                "texture": "https://lulu.dev/avatar.png"
-              },
+              "enabled": true,
               "transform": {
                 "z": 10
               },
-              "ref": "ent_a30cql60qvdu9yetbr03po59"
+              "values": {
+                "texture": "https://lulu.dev/avatar.png"
+              }
             }
-          ],
-          "ref": "ent_g10hhqadfgklv8f812halv7u"
+          ]
         }
       ],
       "local": [
         {
+          "ref": "ent_l2jrfub9p7u3buxicjpmhx8f",
           "type": "@core/Camera",
           "name": "Camera",
+          "enabled": true,
           "values": {
-            "active": true,
-            "smooth": 0.1,
-            "unlocked": false,
-            "zoom": 1
-          },
-          "transform": {},
-          "ref": "ent_l2jrfub9p7u3buxicjpmhx8f"
+            "active": true
+          }
         }
       ],
       "server": [],
       "prefabs": [
         {
+          "ref": "ent_ipenu6s5ev2l1rxmogokrfi7",
           "type": "@core/ClickableRect",
           "name": "Card",
-          "values": {
-            "width": 1,
-            "height": 1
-          },
-          "transform": {},
-          "ref": "ent_ipenu6s5ev2l1rxmogokrfi7"
+          "enabled": true
         },
         {
+          "ref": "ent_wtqe3g5d5a0rnb5yc1hbe3yh",
           "type": "@core/ClickableRect",
           "name": "Coin",
-          "values": {
-            "width": 1,
-            "height": 1
-          },
-          "transform": {},
-          "ref": "ent_wtqe3g5d5a0rnb5yc1hbe3yh"
+          "enabled": true
         },
         {
+          "ref": "ent_u6d3faivwyzfa5wx7ejlve30",
           "type": "@core/ClickableRect",
           "name": "ChessPiece",
-          "values": {
-            "width": 1,
-            "height": 1
-          },
-          "transform": {},
-          "ref": "ent_u6d3faivwyzfa5wx7ejlve30"
+          "enabled": true
         },
         {
+          "ref": "ent_jxp3ncnom26jemwdo1kcy9ux",
           "type": "@core/Empty",
           "name": "Board",
-          "transform": {},
+          "enabled": true,
           "behaviors": [
             {
               "ref": "bhv_rk9fh6iebxt74ic8wu7fbdoj",
-              "script": "res://src/board.ts",
-              "values": {}
+              "script": "res://src/board.ts"
             }
-          ],
-          "ref": "ent_jxp3ncnom26jemwdo1kcy9ux"
+          ]
         }
       ]
     }
