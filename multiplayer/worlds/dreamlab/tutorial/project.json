@@ -53,27 +53,12 @@
                   "y": 39.789606637435384
                 }
               },
-              "values": {
-                "isSensor": false
-              },
               "children": [
                 {
                   "ref": "ent_jmpy4w9jv9r38pptw86tutde",
                   "type": "@core/ColoredSquare",
                   "name": "ColoredSquare",
-                  "enabled": true,
-                  "values": {
-                    "static": false,
-                    "hidden": false,
-                    "width": 1,
-                    "height": 1,
-                    "color": [
-                      1,
-                      1,
-                      1,
-                      1
-                    ]
-                  }
+                  "enabled": true
                 }
               ]
             },
@@ -93,27 +78,12 @@
                   "y": 40.70812150614036
                 }
               },
-              "values": {
-                "isSensor": false
-              },
               "children": [
                 {
                   "ref": "ent_ai74avnir9hytmhtlsmxnv5l",
                   "type": "@core/ColoredSquare",
                   "name": "ColoredSquare",
-                  "enabled": true,
-                  "values": {
-                    "static": false,
-                    "hidden": false,
-                    "width": 1,
-                    "height": 1,
-                    "color": [
-                      1,
-                      1,
-                      1,
-                      1
-                    ]
-                  }
+                  "enabled": true
                 }
               ]
             },
@@ -132,9 +102,6 @@
                   "y": 43.609493272688155
                 }
               },
-              "values": {
-                "isSensor": false
-              },
               "children": [
                 {
                   "ref": "ent_hw5j1o8f8kc1jqnykmgz3y5o",
@@ -150,18 +117,6 @@
                       "x": 1,
                       "y": 0.9999431634744474
                     }
-                  },
-                  "values": {
-                    "static": false,
-                    "hidden": false,
-                    "width": 1,
-                    "height": 1,
-                    "color": [
-                      1,
-                      1,
-                      1,
-                      1
-                    ]
                   }
                 }
               ]
@@ -181,27 +136,12 @@
                   "y": 42.84880415355877
                 }
               },
-              "values": {
-                "isSensor": false
-              },
               "children": [
                 {
                   "ref": "ent_zza1kp5n9786zzbjvz1d13f7",
                   "type": "@core/ColoredSquare",
                   "name": "ColoredSquare",
-                  "enabled": true,
-                  "values": {
-                    "static": false,
-                    "hidden": false,
-                    "width": 1,
-                    "height": 1,
-                    "color": [
-                      1,
-                      1,
-                      1,
-                      1
-                    ]
-                  }
+                  "enabled": true
                 }
               ]
             }
@@ -224,27 +164,14 @@
             }
           },
           "values": {
-            "clonedFromRef": "ent_wwe0q4zxbhcpnfk7yem979s4",
-            "isSensor": false
+            "clonedFromRef": "ent_wwe0q4zxbhcpnfk7yem979s4"
           },
           "children": [
             {
               "ref": "ent_5iiC3FmeAN",
               "type": "@core/ColoredSquare",
               "name": "ColoredSquare",
-              "enabled": true,
-              "values": {
-                "static": false,
-                "hidden": false,
-                "width": 1,
-                "height": 1,
-                "color": [
-                  1,
-                  1,
-                  1,
-                  1
-                ]
-              }
+              "enabled": true
             }
           ]
         },
@@ -265,27 +192,14 @@
             }
           },
           "values": {
-            "clonedFromRef": "ent_wwe0q4zxbhcpnfk7yem979s4",
-            "isSensor": false
+            "clonedFromRef": "ent_wwe0q4zxbhcpnfk7yem979s4"
           },
           "children": [
             {
               "ref": "ent_1P6OjlNGSb",
               "type": "@core/ColoredSquare",
               "name": "ColoredSquare",
-              "enabled": true,
-              "values": {
-                "static": false,
-                "hidden": false,
-                "width": 1,
-                "height": 1,
-                "color": [
-                  1,
-                  1,
-                  1,
-                  1
-                ]
-              }
+              "enabled": true
             }
           ]
         },
@@ -306,27 +220,14 @@
             }
           },
           "values": {
-            "clonedFromRef": "ent_wwe0q4zxbhcpnfk7yem979s4",
-            "isSensor": false
+            "clonedFromRef": "ent_wwe0q4zxbhcpnfk7yem979s4"
           },
           "children": [
             {
               "ref": "ent_7MXAXPrDtJ",
               "type": "@core/ColoredSquare",
               "name": "ColoredSquare",
-              "enabled": true,
-              "values": {
-                "static": false,
-                "hidden": false,
-                "width": 1,
-                "height": 1,
-                "color": [
-                  1,
-                  1,
-                  1,
-                  1
-                ]
-              }
+              "enabled": true
             }
           ]
         },
@@ -347,27 +248,14 @@
             }
           },
           "values": {
-            "clonedFromRef": "ent_wwe0q4zxbhcpnfk7yem979s4",
-            "isSensor": false
+            "clonedFromRef": "ent_wwe0q4zxbhcpnfk7yem979s4"
           },
           "children": [
             {
               "ref": "ent_Z6dXvCZVZy",
               "type": "@core/ColoredSquare",
               "name": "ColoredSquare",
-              "enabled": true,
-              "values": {
-                "static": false,
-                "hidden": false,
-                "width": 1,
-                "height": 1,
-                "color": [
-                  1,
-                  1,
-                  1,
-                  1
-                ]
-              }
+              "enabled": true
             }
           ]
         },
@@ -400,10 +288,6 @@
               "name": "ColoredPolygon",
               "enabled": true,
               "values": {
-                "static": false,
-                "hidden": false,
-                "width": 1,
-                "height": 1,
                 "sides": 15,
                 "color": [
                   0.9764705896377563,
@@ -435,7 +319,6 @@
           "values": {
             "active": true,
             "smooth": 0,
-            "unlocked": false,
             "zoom": 0.2
           }
         },
@@ -463,29 +346,15 @@
             }
           },
           "values": {
-            "static": false,
-            "hidden": false,
             "text": "Coins: 0",
-            "fontFamily": "Inter",
             "fontSize": 125,
-            "fontStyle": "normal",
-            "fontWeight": "normal",
             "align": "left",
             "color": [
               0.9764705896377563,
               1,
               0.32156863808631897,
               1
-            ],
-            "stroke": false,
-            "strokeColor": [
-              0,
-              0,
-              0,
-              1
-            ],
-            "strokeWidth": 3,
-            "strokeJoin": "round"
+            ]
           }
         }
       ],
@@ -507,27 +376,12 @@
               "y": 4.234686589720738
             }
           },
-          "values": {
-            "isSensor": false
-          },
           "children": [
             {
               "ref": "ent_o5z90gwvm0m3xhtfgv5ekdcp",
               "type": "@core/ColoredSquare",
               "name": "ColoredSquare",
-              "enabled": true,
-              "values": {
-                "static": false,
-                "hidden": false,
-                "width": 1,
-                "height": 1,
-                "color": [
-                  1,
-                  1,
-                  1,
-                  1
-                ]
-              }
+              "enabled": true
             }
           ]
         },
@@ -559,10 +413,6 @@
               "name": "ColoredPolygon",
               "enabled": true,
               "values": {
-                "static": false,
-                "hidden": false,
-                "width": 1,
-                "height": 1,
                 "sides": 15,
                 "color": [
                   0.9764705896377563,
@@ -585,10 +435,6 @@
               "y": 1.5372114227416382
             }
           },
-          "values": {
-            "isSensor": false,
-            "shape": "Rectangle"
-          },
           "behaviors": [
             {
               "ref": "bhv_O6Y6i1UdgT",
@@ -602,12 +448,7 @@
               "name": "Sprite",
               "enabled": true,
               "values": {
-                "static": false,
-                "hidden": false,
-                "texture": "res://assets/player.png",
-                "width": 1,
-                "height": 1,
-                "alpha": 1
+                "texture": "res://assets/player.png"
               }
             }
           ]
